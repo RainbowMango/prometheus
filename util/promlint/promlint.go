@@ -12,6 +12,8 @@
 // limitations under the License.
 
 // Package promlint provides a linter for Prometheus metrics.
+//
+// Deprecated: Use the "github.com/prometheus/client_golang/prometheus/testutil/promlint" package instead.
 package promlint
 
 import (
